@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HackerNewsClient</string>
+    <string name="author">Author: %1$s</string>
+    <string name="score">Score: %1$s</string>
+</resources>
